@@ -1,0 +1,23 @@
+body {
+  background: pink;
+  text-align: center;
+  font-family: arial;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+}
+
+.container {
+  background-color: lavenderblush;
+  margin: auto;
+  margin-top: 20px;
+  padding: auto;
+  padding-top: 30px;
+  border-radius: 10px;
+  border-width: 10px;
+  border-color: lightslategray;
+  width: 50vw;
+  height: 30vw;
+}
